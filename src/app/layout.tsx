@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "AddictionHelp",
+  title: "LevelUpBison",
   description: "A supportive streak tracker with Ironhorn, the bison guardian.",
 };
 

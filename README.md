@@ -1,6 +1,6 @@
-# AddictionHelp
+# LevelUpBison
 
-AddictionHelp is a mobile-first streak tracker built around Ironhorn, a bison guardian who grows stronger as users continue their recovery streak.
+LevelUpBison is a mobile-first streak tracker built around Ironhorn, a bison guardian who grows stronger as users continue their recovery streak.
 
 ## First version
 

@@ -17,8 +17,8 @@ type TrackerState = {
   rebuilds: number;
 };
 
-const STORAGE_KEY = "addictionhelp-tracker-v1";
-const TRACKER_CHANGE_EVENT = "addictionhelp-tracker-change";
+const STORAGE_KEY = "levelupbison-tracker-v1";
+const TRACKER_CHANGE_EVENT = "levelupbison-tracker-change";
 
 const DEFAULT_TRACKER: TrackerState = {
   currentStreak: 0,
@@ -168,7 +168,7 @@ export function StreakDashboard() {
     <main className="app-shell">
       <header className="topbar">
         <div>
-          <p className="eyebrow">AddictionHelp</p>
+          <p className="eyebrow">LevelUpBison</p>
           <h1>Build the streak. Strengthen Ironhorn.</h1>
         </div>
         <span className="save-status">{message}</span>
